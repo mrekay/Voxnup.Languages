@@ -245,6 +245,7 @@
     "TITLE_WELCOME_ROOM": "Welcome to the %room_name% room!",
     "ALREADY_HAVE_AN_ACCOUNT": "Already have an account?",
     "ERR_PERM": "You do not have permission for this action.",
+    "ERR_CSRF": "This request came from another site and was rejected. Refresh the page and try again.",
     "ERR_INVALID_PARAMETERS_SENT": "Invalid parameters sent.",
     "ERR_GENERAL": "An error occurred.",
     "SUC_GENERAL": "The operation was completed successfully.",

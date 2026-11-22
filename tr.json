@@ -245,6 +245,7 @@
     "TITLE_WELCOME_ROOM": "%room_name% odasına hoş geldin!",
     "ALREADY_HAVE_AN_ACCOUNT": "Zaten bir hesabın var mı ?",
     "ERR_PERM": "Bu işlem için yetkiniz bulunmamaktadır.",
+    "ERR_CSRF": "Bu istek başka bir siteden geldiği için reddedildi. Sayfayı yenileyip tekrar dene.",
     "ERR_INVALID_PARAMETERS_SENT": "Geçersiz parametreler gönderildi.",
     "ERR_GENERAL": "Bir hata oluştu.",
     "SUC_GENERAL": "İşlem başarıyla gerçekleştirildi.",

@@ -207,6 +207,7 @@
     "TITLE_WELCOME_ROOM": "%room_name% otağına xoş gəldin!",
     "ALREADY_HAVE_AN_ACCOUNT": "Artıq hesabın var?",
     "ERR_PERM": "Bu əməliyyat üçün icazən yoxdur.",
+    "ERR_CSRF": "Bu sorğu başqa saytdan gəldiyi üçün rədd edildi. Səhifəni yenilə və yenidən cəhd et.",
     "ERR_INVALID_PARAMETERS_SENT": "Etibarsız parametrlər göndərildi.",
     "ERR_GENERAL": "Xəta baş verdi.",
     "SUC_GENERAL": "Əməliyyat uğurla tamamlandı.",

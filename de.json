@@ -207,6 +207,7 @@
     "TITLE_WELCOME_ROOM": "Willkommen im Raum %room_name%!",
     "ALREADY_HAVE_AN_ACCOUNT": "Du hast bereits ein Konto?",
     "ERR_PERM": "Du hast keine Berechtigung für diese Aktion.",
+    "ERR_CSRF": "Diese Anfrage kam von einer anderen Website und wurde abgelehnt. Lade die Seite neu und versuche es erneut.",
     "ERR_INVALID_PARAMETERS_SENT": "Ungültige Parameter gesendet.",
     "ERR_GENERAL": "Ein Fehler ist aufgetreten.",
     "SUC_GENERAL": "Der Vorgang wurde erfolgreich abgeschlossen.",
